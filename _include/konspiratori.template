@@ -1,0 +1,18 @@
+# Title: Konspiratori.sk
+# Description: List of websites that, according to kospiratori.sk, are not trustworthy.
+# Last modified: __DATE__
+# Version: __VERSION__
+# Website: https://github.com/erikni/pihole-block-disinformation-webs
+# Based on: https://konspiratori.sk/zoznam-stranok
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Maintainer: erikni
+#
+#
+# (EN)  WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (CZ) VAROVANI: Stránky uvedené v seznamech mohou být škodlivé. Prosím, nenavštěvujte je, když nevíte, co děláte!
+#
+#
+# Blacklist for download for the Pi-Hole project (https://pi-hole.net/) at url:
+# https://raw.githubusercontent.com/erikni/pihole-block-disinformation-webs/refs/heads/main/konspiratori.txt
+#
+#
